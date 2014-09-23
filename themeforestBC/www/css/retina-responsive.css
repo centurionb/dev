@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* Retina Ready Images */
+
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min-device-pixel-ratio: 1.5) {
+.trophy { background:url(../images/bg-trophy@2x.png) center no-repeat; background-size:30px 30px; }
+.quote { background:url(../images/bg-quote@2x.png) center no-repeat; background-size:30px 30px; }
+.like { background:url(../images/bg-like@2x.png) center no-repeat; background-size:30px 30px; }
+.share { background:url(../images/bg-share@2x.png) center no-repeat; background-size:30px 30px; }
+.stationery { background:url(../images/bg-stationery@2x.png) center no-repeat; background-size:30px 30px; }
+.camera {background:url(../images/bg-camera@2x.png) center no-repeat; background-size:30px 30px; }
+.books {background:url(../images/bg-books@2x.png) center no-repeat; background-size:30px 30px; }
+.network {background:url(../images/bg-network@2x.png) center no-repeat; background-size:30px 30px; }
+.tape {background:url(../images/bg-tape@2x.png) center no-repeat; background-size:30px 30px; }
+.recorder {background:url(../images/bg-recorder@2x.png) center no-repeat; background-size:30px 30px; }
+.oldradio {background:url(../images/bg-oldradio@2x.png) center no-repeat; background-size:30px 30px; }
+.microphone1 {background:url(../images/bg-microphone1@2x.png) center no-repeat; background-size:30px 30px; }
+.microphone2 {background:url(../images/bg-microphone2@2x.png) center no-repeat; background-size:30px 30px; }
+.microphone3 {background:url(../images/bg-microphone3@2x.png) center no-repeat; background-size:30px 30px; }
+.headphone1 {background:url(../images/bg-headphone1@2x.png) center no-repeat; background-size:30px 30px; }
+.headphone2 {background:url(../images/bg-headphone2@2x.png) center no-repeat; background-size:30px 30px; }
+.record {background:url(../images/bg-record@2x.png) center no-repeat; background-size:30px 30px; }
+.gramophone {background:url(../images/bg-gramophone@2x.png) center no-repeat; background-size:30px 30px; }
+.videocam {background:url(../images/bg-videocam@2x.png) center no-repeat; background-size:30px 30px; }
+.television {background:url(../images/bg-television@2x.png) center no-repeat; background-size:30px 30px; }
+.player {background:url(../images/bg-player@2x.png) center no-repeat; background-size:30px 30px; }
+.playmovie {background:url(../images/bg-playmovie@2x.png) center no-repeat; background-size:30px 30px; }
+.film {background:url(../images/bg-film@2x.png) center no-repeat; background-size:30px 30px; }
+.dvd {background:url(../images/bg-dvd@2x.png) center no-repeat; background-size:30px 30px; }
+.photograph {background:url(../images/bg-photograph@2x.png) center no-repeat; background-size:30px 30px; }
+.polaroid {background:url(../images/bg-polaroid@2x.png) center no-repeat; background-size:30px 30px; }
+.photos {background:url(../images/bg-photos@2x.png) center no-repeat; background-size:30px 30px; }
+.frame {background:url(../images/bg-frame@2x.png) center no-repeat; background-size:30px 30px; }
+.film2 {background:url(../images/bg-film2@2x.png) center no-repeat; background-size:30px 30px; }
+.camera2 {background:url(../images/bg-camera2@2x.png) center no-repeat; background-size:30px 30px; }
+.scissor {background:url(../images/bg-scissor@2x.png) center no-repeat; background-size:30px 30px; }
+.edit {background:url(../images/bg-edit@2x.png) center no-repeat; background-size:30px 30px; }
+.select {background:url(../images/bg-select@2x.png) center no-repeat; background-size:30px 30px; }
+.walkman {background:url(../images/bg-walkman@2x.png) center no-repeat; background-size:30px 30px; }
+.close { background:url(../images/bg-close@2x.png) center no-repeat; background-size:48px 48px; }
+/* Social Icons */
+.linkedin {background:url(../images/bg-linkedin@2x.png) center no-repeat; background-size:50px 50px; }
+.dribbble {background:url(../images/bg-dribbble@2x.png) center no-repeat; background-size:50px 51px; }
+.googleplus {background:url(../images/bg-googleplus@2x.png) center no-repeat; background-size:50px 50px; }
+.twitter {background:url(../images/bg-twitter@2x.png) center no-repeat; background-size:50px 51px; } 
+.facebook {background:url(../images/bg-facebook@2x.png) center no-repeat; background-size:50px 51px; }
+.behance {background:url(../images/bg-behance@2x.png) center no-repeat; background-size:50px 50px; }
+.skype {background:url(../images/bg-skype@2x.png) center no-repeat; background-size:50px 51px; }
+.vimeo {background:url(../images/bg-vimeo@2x.png) center no-repeat; background-size:50px 50px; }
+
+blockquote { background:url(../images/bg-quote@2x.png) center 25px no-repeat; background-size:30px 30px;}
+
+.flex-direction-nav .flex-next {background:url(../images/bg-next@2x.png) center no-repeat; background-size:48px 48px; }
+.flex-direction-nav .flex-prev {background:url(../images/bg-prev@2x.png) center no-repeat; background-size:48px 48px; }
+
+.fancybox-close {background: url(../images/bg-close@2x.png) center no-repeat; background-size:48px 48px;}
+.fancybox-prev span {background: url(../images/bg-prev@2x.png) center no-repeat; background-size:48px 48px;}
+.fancybox-next span {background: url(../images/bg-next@2x.png) center no-repeat; background-size:48px 48px;}
+}
+
+
+@media only screen and (max-width: 1229px) {
+.container {max-width:870px; }
+/* update 1.3 */ .project .col3-3 { width:570px; }
+/* update 1.3 */ .col4-3 {width:860px; }
+}
+
+@media only screen and (min-width: 768px) {
+#options {display:block !important }
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+.container {max-width:580px; }
+.col3-3, /* update 1.3 */ .col4-3 { width:570px; height:auto;}
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+.container {max-width:290px; }
+.col3-3, .col2-3, /* update 1.3 */ .project .col3-3, .col4-3 { width:280px; height:auto;}
+.col2-3.white, .col3-3.white {padding:20px 35px 50px !important; }
+h2 {font-size:24px; font-weight:400; padding-top:22px; font-family:Georgia, "Times New Roman", Times, serif; color:#303030; text-transform:none }
+p.big {line-height:21px; font-size:15px; padding:13px 0px 0 0px; font-style:italic; letter-spacing:0; color:#555 }
+#nav-button {display:block; padding:30px; width:100%; margin:0 auto; cursor:pointer; position:relative; -webkit-tap-highlight-color: rgba(0,0,0,0);}
+.nav-bar {background-color:#fff; border-radius:1px; display:block; width:25px; height:3px; margin:3px auto; }
+#options { display:none; }
+#options ul {display:block; width:100%; z-index:300; position:relative; top:0px; }
+#options ul li { text-align:center; width:100%;  float:none; display:block; margin:0 }
+#options ul li a { display:block; padding:10px; }
+footer { padding:0px 0px 95px 0px; }
+}
